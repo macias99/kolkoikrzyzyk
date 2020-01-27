@@ -9,7 +9,7 @@ ustalPole plansza[K_wielkosc][W_wielkosc];
 
 int main()
 {
-Beka
+Beka z ciebie że tyle czasu ogarniasz MacOS
 
 
     return 0;
