@@ -1,13 +1,2 @@
 # kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
-# kolkoikrzyzyk
+
