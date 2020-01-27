@@ -9,7 +9,7 @@ ustalPole plansza[K_wielkosc][W_wielkosc];
 
 int main()
 {
-
+beka
 
 
     return 0;
