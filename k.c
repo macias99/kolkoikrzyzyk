@@ -10,6 +10,7 @@ ustalPole plansza[K_wielkosc][W_wielkosc];
 int main()
 {
 Beka z ciebie że tyle czasu ogarniasz MacOS
+a teraz ze mnie bo nie mogę użyć git add
 
 
     return 0;
