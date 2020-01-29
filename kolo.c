@@ -214,4 +214,4 @@ int pobierzLiczbe()
         fseek(stdin, SEEK_END, 0);
         printf("Podaj prawidłową liczbę: ");
     }
-}ls
+}
